@@ -1,0 +1,52 @@
+/*styles for the starwars*/
+* {
+    margin: 0;
+    padding: 0;
+}
+.topheader {
+    background-color: darkgray;
+    padding: 40px;
+    text-align: center;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: darkorchid;
+    font-size: 50px;
+}
+h4 {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+nav {
+    text-transform: lowercase;
+    
+}
+.list {
+    list-style: none;
+    
+}
+li {
+    display: inline-block;
+    padding: 10px;
+}
+body {
+    background-color: darkgray;
+    text-align: center;
+}
+img {
+    height: 400px;
+    width: 600px;
+    padding-bottom: 20px;
+    
+}
+#blurb {
+    font-family: 'Courier New', Courier, monospace;
+    color: darkmagenta;
+    padding-bottom: 20px;
+}
+footer {
+    background-color: darkolivegreen;
+}
+p {
+    color: darkorange;
+}
